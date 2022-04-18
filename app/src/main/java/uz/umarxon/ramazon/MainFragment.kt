@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.google.android.material.bottomsheet.BottomSheetDialog
 import uz.umarxon.ramazon.adapters.RvAdapter
 import uz.umarxon.ramazon.databinding.FragmentMainBinding
 import uz.umarxon.ramazon.models.RamadanTImeClass

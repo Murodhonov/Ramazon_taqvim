@@ -16,7 +16,7 @@ class AboutFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         binding = FragmentAboutBinding.inflate(layoutInflater)
- 
+
         binding.name.setCharacterDelay(30)
         binding.name.animateText("Ramazon taqvimi 2022")
 
