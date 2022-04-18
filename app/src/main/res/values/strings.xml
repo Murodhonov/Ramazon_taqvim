@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ramazon taqvimi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stop_sound">Ovozni to\'xtatish</string>
+    <string name="soundplay">Ovozni eshitish</string>
+    <string name="name_author">Murodhonov Umarxon</string>
+    <string name="subtitle">Android Developer</string>
+    <string name="empty"> </string>
+    <string name="time2">Toshkentdan\n⏰ Avval:\n Xonabod 14/15; Andijon 11/12; Namangan 9/10; Farg\'ona 8/10; Xo\'jaobod 12/13; Chortoq 9/10; Chust 7/8; Rishton 6/8; Quva 9/12; Qo\'qon 5/7.\n ⏰Keyin:\n Bekobod 2/0; Guliston 4/2; Jizzax 8/6; Denov 11/4; Termiz 13/6; Samarqand 12/9; Kattaqo\'rg\'on 15/12; Qarshi 19/13; Nurota 17/16; Navoiy 18/16; Uchquduq 16/14; Buxoro 22/19; Urganch 34/35; Nukus 37/40.</string>
+    <string name="title_one">Ro\'za tutish (saharlik, og\'iz yopish) duosi</string>
+    <string name="first_dua">Navaytu an asuvma sovma shahro ramazona minal fajri ilal mag\'ribi, xolisan lillahi ta\'aalaa, Allohu akbar. \n\nMa\'nosi: Ramazon oyining ro\'zasini tong otkanidan kun botguncha xolis Alloh taolo uchun tutishni niyat qildim. Alloh buyukdir</string>
+    <string name="listen_title">Ovozni eshitish</string>
+    <string name="second_dua">Allohumma laka sumtu va bika amantu va a\'alayka tavakkaltu va\'ala rizqika aftartu , fag\'firli zunubiy , ya G\'offaru, ma qoddamtu vama axxortu, Allohu akbar\n\nMa\'nosi: Yo Alloh senga iymon keltirib va senga tabakkal qilib, sen uchun ro\'za tutdim, sen bergan rizq bilan iftor qildim. Ey gunohlarni kechirguvchi zot oldingi va keyingi gunohlarimni mag\'firat qil. Omin</string>
+    <string name="second_title">Iftorlik (og\'iz ochish) duosi</string>
+</resources>
